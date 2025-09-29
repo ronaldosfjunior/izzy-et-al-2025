@@ -49,7 +49,7 @@ This repository contains reproducible scripts used in the analyses and figure ge
 ## Notes
 
 - Scripts are designed for reproducibility; raw datasets are not hosted here.  
-- Data can be accessed through their respective repositories (GEO, Synapse, EGA, etc.) as referenced in the manuscript.  
+- Data can be accessed through their respective repositories as referenced in the manuscript.  
 - Please cite the paper above when using these scripts or derived analyses.  
 
 ---
